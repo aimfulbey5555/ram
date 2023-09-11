@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Explorer with LanceDB, Actions and Docs updates (#7487)
