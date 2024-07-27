@@ -1,1 +1,1 @@
-fix predict with class filter
+Model typehints Docker fix (#8306)
